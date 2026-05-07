@@ -30,7 +30,7 @@ export default function Home() {
       <header className="border-b border-border">
         <nav className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
           <Link href="/" className="text-2xl font-bold text-primary">
-            Tavonlex
+            Welton
           </Link>
           <div className="flex gap-4">
             {user ? (
@@ -60,7 +60,7 @@ export default function Home() {
             Connect, Teach & Inspire
           </h1>
           <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto text-balance">
-            Join Tavonlex and manage your online courses with ease. Reach students worldwide and grow your teaching career.
+            Join Welton and manage your online courses with ease. Reach students worldwide and grow your teaching career.
           </p>
           {!user && (
             <div className="flex gap-4 justify-center">
@@ -187,7 +187,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 py-16 text-center">
           <h2 className="text-3xl font-bold mb-4">Ready to Share Your Knowledge?</h2>
           <p className="text-lg text-muted-foreground mb-8">
-            Start teaching and earning today on Tavonlex.
+            Start teaching and earning today on Welton.
           </p>
           {!user && (
             <Link href="/auth/register">
@@ -200,7 +200,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-border bg-card">
         <div className="max-w-7xl mx-auto px-4 py-8 text-center text-muted-foreground">
-          <p>&copy; 2024 Tavonlex. All rights reserved.</p>
+          <p>&copy; 2024 Welton. All rights reserved.</p>
         </div>
       </footer>
     </div>
