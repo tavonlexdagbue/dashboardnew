@@ -73,7 +73,7 @@ export function LoginForm() {
       <CardHeader>
         <CardTitle>Welcome Back</CardTitle>
         <CardDescription>
-          Sign in to your Tavonlex tutor account
+          Sign in to your Welton tutor account
         </CardDescription>
       </CardHeader>
       <CardContent>
