@@ -44,7 +44,7 @@ export default function DashboardLayout({
       <header className="border-b border-border bg-card">
         <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
           <Link href="/dashboard" className="text-2xl font-bold text-primary">
-            Tavonlex
+            Welton
           </Link>
           <div className="flex items-center gap-4">
             <span className="text-sm text-muted-foreground">
