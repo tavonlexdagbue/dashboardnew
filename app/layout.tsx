@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Tavonlex Tutors - Connect & Teach',
+  title: 'Welton Tutors - Connect & Teach',
   description: 'Professional platform for tutors to manage courses, connect with students, and grow their teaching career',
   generator: 'v0.app',
   icons: {
