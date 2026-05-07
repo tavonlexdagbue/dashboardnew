@@ -150,7 +150,7 @@ export function RegisterForm() {
       <CardHeader>
         <CardTitle>Create Your Tutor Account</CardTitle>
         <CardDescription>
-          Join Tavonlex and start managing your courses today
+          Join Welton and start managing your courses today
         </CardDescription>
       </CardHeader>
       <CardContent>
