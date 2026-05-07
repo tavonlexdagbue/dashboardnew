@@ -2,8 +2,8 @@ import { Metadata } from 'next';
 import { RegisterForm } from '@/components/auth/register-form';
 
 export const metadata: Metadata = {
-  title: 'Register - Tavonlex Tutors',
-  description: 'Create your tutor account on Tavonlex',
+  title: 'Register - Welton Tutors',
+  description: 'Create your tutor account on Welton',
 };
 
 export default function RegisterPage() {
@@ -11,7 +11,7 @@ export default function RegisterPage() {
     <div className="min-h-screen bg-gradient-to-br from-primary/5 via-background to-accent/5 flex items-center justify-center p-4">
       <div className="w-full max-w-2xl">
         <div className="mb-8 text-center">
-          <h1 className="text-4xl font-bold text-primary mb-2">Tavonlex</h1>
+          <h1 className="text-4xl font-bold text-primary mb-2">Welton</h1>
           <p className="text-muted-foreground">Professional Teaching Platform</p>
         </div>
         <RegisterForm />
